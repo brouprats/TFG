@@ -54,7 +54,7 @@ LOOK_BACK    = 12
 TRAIN_RATIO  = 0.80
 MC_PASSES    = 100
 ALPHA        = 0.05
-FRED_API_KEY = "7ffb3429bbbf66c1ce43a74f18f751d0"
+FRED_API_KEY = ""
 
 FRED_CACHE_DIR = os.path.join(os.path.dirname(__file__), "fred_cache")
 
